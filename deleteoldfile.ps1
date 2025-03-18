@@ -1,1 +1,1 @@
-$Path = Read-Host "Saisissez le chemin vers le dossier a nettoyer"
+$Path = Read-Host "Saisissez le chemin vers le dossier a baleyer"
